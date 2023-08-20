@@ -1,3 +1,4 @@
+set encoding=UTF-8
 set title
 set number
 set relativenumber
