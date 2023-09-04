@@ -17,7 +17,7 @@ set encoding=utf-8
 set mouse=a
 set guicursor=
 
-set noautoindent
+set autoindent
 set shiftwidth=4
 set tabstop=4
 set softtabstop=4

@@ -7,6 +7,10 @@ call vundle#begin()
      Plugin 'Valloric/YouCompleteMe'
      Plugin 'dracula/vim', { 'name': 'dracula' }
      Plugin 'ryanoasis/vim-devicons'
+     Plugin 'rust-lang/rust.vim'
+"     Plugin 'neoclide/coc.nvim'
+     Plugin 'vim-autoformat/vim-autoformat'
+     Plugin 'dense-analysis/ale'
 call vundle#end()            " required
 filetype plugin indent on    " required
 

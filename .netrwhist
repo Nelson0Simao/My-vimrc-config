@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/srroot'
 let g:netrw_dirhist_7='/home/srroot/.vim'
 let g:netrw_dirhist_6='/home/srroot'
 let g:netrw_dirhist_5='/home/srroot/.vim'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_2='/home/srroot/NeverTopLeaning/jogo-multiplayer-deschamps'
 let g:netrw_dirhist_1='/home/srroot/NeverTopLeaning/game-otakusZango/frontend'
 let g:netrw_dirhist_0='/home/srroot/NeverTopLeaning/game-otakusZango'
 let g:netrw_dirhist_9='/home/srroot/NeverTopLeaning/game-otakusZango/backend'
-let g:netrw_dirhist_8='/home/srroot/NeverTopLeaning/game-otakusZango'
