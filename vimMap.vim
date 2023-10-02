@@ -6,4 +6,4 @@ map <C-t> :terminal<CR>
 map vs :vsplit<CR>
 noremap <F3> :Autoformat<CR>
 noremap <C-x> diw
-imap aa <Esc>
+"imap aa <Esc>

@@ -11,8 +11,10 @@ call vundle#begin()
 "     Plugin 'neoclide/coc.nvim'
      Plugin 'vim-autoformat/vim-autoformat'
      Plugin 'dense-analysis/ale'
+     Plugin 'ziglang/zig.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
 "colorscheme dracula
 hi Normal guibg=NONE ctermbg=NONE
+let NERDTreeShowHidden=1

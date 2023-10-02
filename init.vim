@@ -30,7 +30,7 @@ let g:ycm_language_server_python_interpreter = '/path/to/your/python'
 let g:rustfmt_autosave = 1
 let g:rustfmt_emit_files = 1
 let g:rustfmt_fail_silently = 0
-
+let g:zig_fmt_autosave = 0
 " Nerdtree mudar a cor das letras
 hi NERDTreeFile ctermfg=252 
 hi NERDTreeDir ctermfg=white cterm=bold 
